@@ -1,0 +1,16 @@
+C:\Users\CC-06\source\repos\Library_IS\bin\Release\Library_IS.exe.config
+C:\Users\CC-06\source\repos\Library_IS\bin\Release\Library_IS.exe
+C:\Users\CC-06\source\repos\Library_IS\bin\Release\Library_IS.pdb
+C:\Users\CC-06\source\repos\Library_IS\bin\Release\Library_IS.xml
+C:\Users\CC-06\source\repos\Library_IS\bin\Release\MySql.Data.dll
+C:\Users\CC-06\source\repos\Library_IS\bin\Release\MySql.Data.xml
+C:\Users\CC-06\source\repos\Library_IS\obj\Release\Library_IS.vbproj.AssemblyReference.cache
+C:\Users\CC-06\source\repos\Library_IS\obj\Release\Library_IS.frmBorrower.resources
+C:\Users\CC-06\source\repos\Library_IS\obj\Release\Library_IS.frmMainMenu.resources
+C:\Users\CC-06\source\repos\Library_IS\obj\Release\Library_IS.Resources.resources
+C:\Users\CC-06\source\repos\Library_IS\obj\Release\Library_IS.vbproj.GenerateResource.cache
+C:\Users\CC-06\source\repos\Library_IS\obj\Release\Library_IS.vbproj.CoreCompileInputs.cache
+C:\Users\CC-06\source\repos\Library_IS\obj\Release\Library_IS.vbproj.Up2Date
+C:\Users\CC-06\source\repos\Library_IS\obj\Release\Library_IS.exe
+C:\Users\CC-06\source\repos\Library_IS\obj\Release\Library_IS.xml
+C:\Users\CC-06\source\repos\Library_IS\obj\Release\Library_IS.pdb
